@@ -1,0 +1,11 @@
+{
+  "name": "talos-hello-world-eval",
+  "version": "1.0.0",
+  "description": "Simple hello world JavaScript deliverable for Talos evaluation testing.",
+  "main": "hello.js",
+  "scripts": {
+    "test": "node hello.test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
